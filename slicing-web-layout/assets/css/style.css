@@ -1,0 +1,130 @@
+body{
+    font-family:sans-serif;
+}
+
+.top{
+    background-color: #26468fff;
+}
+.header-top{
+    background-color: #ebebebff;
+    padding: 40px;
+}
+
+.header-top .btn{
+    background-color: #26468fff;
+    float: right;
+    margin-top: -20px;
+}
+.header-top .btn:hover{
+    background-color: rgb(26, 47, 95);
+}
+.logo{
+   margin-top: -50px;
+}
+.text-header{
+    margin-left: -50px;
+}
+.text-header h5{
+    color: #26468fff;
+}
+.text-header h2{
+    color: #26468fff;
+    line-height: 20px;
+}
+.hero .btn{
+    padding: 10px;
+    width: 15%;
+    background-color: #26468fff;
+    border-radius: 10px;
+    color: white;
+    margin-top: -200px;
+    margin-left: 80%;
+    box-shadow: 4px 4px rgb(168, 168, 168);
+}
+.hero b{
+    font-size: 20px;
+}
+.hero a:hover{
+    background-color: rgb(26, 47, 95);
+}
+.main h3{
+    font-size: 25px;
+}
+.main span{
+    color:#26468fff; 
+}
+.tentang{
+    padding: 20px;
+    background-color: #f4f7fdff;
+}
+.tentang h3{
+    font-size: 25px;
+}
+.tentang span{
+    color:#26468fff; 
+}
+.tentang a{
+    padding: 10px;
+    width: 31%;
+    background-color: #063585ff;
+    border-radius: 8px;
+    box-shadow: 4px 4px rgb(168, 168, 168);
+    text-transform: uppercase;
+    font-size: 23px;
+}
+.tentang a:hover{
+    background-color: rgb(26, 47, 95);
+}
+.perlindungan h3{
+    font-size: 25px;
+}
+.perlindungan span{
+    color:#26468fff; 
+}
+.perlindungan .form{
+   display: flex;
+   justify-content: center;
+}
+.perlindungan a{
+   color: #063585ff;
+ }
+ .perlindungan .cek{
+    font-size: 15px;
+    color: #000;
+ }
+ .perlindungan .form-check-input{
+    color: #26468fff; 
+
+ }
+ .perlindungan .btn{
+    background-color: #26468fff; 
+    width: 45%;
+    font-size: 20px;
+ }
+ .perlindungan button:hover{
+    background-color: rgb(26, 47, 95);
+ }
+ .perlindungan .blur{
+    font-size: 15px;
+
+ }
+ .perlindungan img{
+    height: 25px;
+    margin-top: 5px;
+ }
+ .langkah h3{
+    font-size: 25px;
+ }
+ .langkah span{
+    color:#26468fff; 
+}
+.langkah img{
+    width: 83%;
+}
+.footer{
+    background-color: #26468fff; 
+    padding: 15px;
+}
+.footer span{
+    margin-left: 15%;
+}
